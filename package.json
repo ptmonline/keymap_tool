@@ -12,6 +12,6 @@
   "scripts": {
     "test": "node keymap <<presentation 1>> <<presentation 2>> etc ..."
   },
-  "author": "p torres",
-  "license": "ISC"
+  "author": "p.torres",
+  "license": "MIT"
 }
