@@ -1,7 +1,7 @@
 {
   "name": "keymap",
   "version": "1.0.0",
-  "description": "creates a excell document with key message map",
+  "description": "creates a excell document with key message map veeva doc",
   "main": "keymap.js",
   "dependencies": {
     "msexcel-builder": "^0.0.2",
